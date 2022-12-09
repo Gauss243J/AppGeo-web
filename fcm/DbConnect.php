@@ -1,11 +1,5 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Belal
- * Date: 10/5/2017
- * Time: 11:31 AM
- */
 class DbConnect
 {
     private $con;
